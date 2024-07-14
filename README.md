@@ -32,3 +32,6 @@ strates Impact-Map’s potential to enhance research efficiency and
 
 
 Keywords: GIS, conservation, anthropogenic stress, GEE
+
+
+Reviewed by: DJMERCADO
